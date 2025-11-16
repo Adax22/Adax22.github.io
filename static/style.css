@@ -391,7 +391,7 @@ nav ul li .dropdown a:hover {
     display: flex;
     flex-direction: column;
     gap: 20px;
-    max-width: 75%;
+    max-width: 85%;
     margin: 0 auto;
 }
 
@@ -727,4 +727,7 @@ nav ul li .dropdown a:hover {
         max-width: 90%;
     }
 
+    .tournament-list {
+        max-width: 100%;
+    }
 }
